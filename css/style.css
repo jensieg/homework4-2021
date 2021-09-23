@@ -60,7 +60,7 @@ a{
 
 /*Req 5*/
 * {
-   border: 3px;
+   border-width: 3px;
    border-style: dashed;
    color: #417243;
 
