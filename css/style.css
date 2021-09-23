@@ -60,10 +60,7 @@ a{
 
 /*Req 5*/
 * {
-   border-width: 3px;
-   border-style: dashed;
-   color: #417243;
-
+   border-width: 3px dashed #417243;
 }
 
 
@@ -84,6 +81,10 @@ td{
 
 table{
     border: 5px solid #000000;
+    position: center;
+    border-radius: 25px;
+
+
 }
 
 /* I gave you the selector, but not the property-value pair. 
