@@ -33,7 +33,7 @@ body{
   background-image: url('images/pigeon-background.JPEG');
   background-repeat: no-repeat;
   background-color: #DDDDDD;
-  font-family: "Andika"; sans-serif;
+  font-family: "Andika", sans-serif;
 
   /*Req 1*/
 }
