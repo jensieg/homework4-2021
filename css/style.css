@@ -78,7 +78,6 @@ td{
   background-color: #7e0825;
   text-align: center;
   text-transform: uppercase;
-  border-radius: 50px;
 
 }
 
@@ -98,11 +97,7 @@ table{
 /* I gave you the selector, but not the property-value pair. 
 You can use Inspect Element or your editor to find selectors. */
 thead tr:first-child th:first-child{
-  background-color: transparent;
-}
-
-thead tr:second-child th:second-child{
-  background-color: #D1D1D1;
+  border-radius: 50px;
 }
 
 table tr:hover {
