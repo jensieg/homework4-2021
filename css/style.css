@@ -78,7 +78,7 @@ td{
   background-color: #7e0825;
   text-align: center;
   text-transform: uppercase;
-  : 50px;
+  border-radius: 50px;
 
 }
 
@@ -110,6 +110,7 @@ table tr:hover {
 }
 
 footer{
+  width:100%;
   background:#000000;
   text-align:center;
   color: #FFFFFF;
@@ -118,5 +119,4 @@ footer{
   bottom:0;
   left:0;
   right:0;
-  width:100%;
 }
