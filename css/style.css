@@ -110,11 +110,12 @@ table tr:hover {
 }
 
 footer{
+  display: inline-block;
   width:100%;
+  min-height: 75px;
   background:#000000;
   text-align:center;
   color: #FFFFFF;
-  min-height: 75px;
   position:absolute;
   bottom:0;
 }
