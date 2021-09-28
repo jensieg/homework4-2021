@@ -119,6 +119,7 @@ tbody tr:last-child th:first-child{
 }
 
 tbody tr:last-child th:last-child{
+  border-collapse: separate;
   border-bottom-right-radius: 50px;
 }
 
