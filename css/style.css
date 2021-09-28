@@ -97,7 +97,6 @@ tr:nth-child(even) {
 
 table{
     border: 2px solid #000000;
-    position: center;
     border-radius: 50px;
     border-spacing: 0;
     border-collapse: separate;
