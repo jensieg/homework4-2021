@@ -99,7 +99,7 @@ table{
     border: 2px solid #000000;
     border-radius: 50px;
     border-spacing: 0;
-    border-collapse: separate;
+    border-collapse: collapse;
     margin-right: auto;
     margin-left: auto;
 }
@@ -119,7 +119,6 @@ tbody tr:last-child th:first-child{
 }
 
 tbody tr:last-child th:last-child{
-  border-collapse: separate;
   border-bottom-right-radius: 50px;
 }
 
