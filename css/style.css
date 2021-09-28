@@ -122,7 +122,7 @@ tbody tr:last-child th:first-child{
   border-bottom-left-radius: 50px;
 }
 
-tbody tr:last-child th:last-child{
+tbody tr:first-child th:last-child{
   border-bottom-right-radius: 50px;
 }
 
