@@ -112,7 +112,15 @@ tbody tr:hover {
 /* I gave you the selector, but not the property-value pair. 
 You can use Inspect Element or your editor to find selectors. */
 thead tr:first-child th:first-child{
-  border-radius: 50px;
+  border-top-left-radius: 10px;
+}
+
+thead tr:last-child th:last-child{
+  border-bottom-left-radius: 10px;
+}
+
+thead tr:last-child th:last-child{
+  border-bottom-right-radius: 10px;
 }
 
 
