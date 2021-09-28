@@ -104,10 +104,6 @@ table{
     margin-left: auto;
 }
 
-tbody tr:hover {
-  background-color: rgb(126, 8, 37, 0.25);
-}
-
 /* I gave you the selector, but not the property-value pair. 
 You can use Inspect Element or your editor to find selectors. */
 thead tr:first-child th:first-child{
@@ -126,6 +122,9 @@ tbody tr:last-child th:last-child{
   border-bottom-right-radius: 50px;
 }
 
+tbody tr:hover {
+  background-color: rgb(126, 8, 37, 0.25);
+}
 
 footer{
   display: inline-block;
