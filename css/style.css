@@ -17,10 +17,10 @@ caption{
 }
 
 /* If you decide to uncomment this code, comment it back for the Autograder. */
-/* tr{
+tr{
   -webkit-transition: background-color 0.5s ease;
   transition: background-color 0.5s ease;
-} */
+} 
 
 /*END STARTER CODE*/
 
@@ -66,6 +66,7 @@ a{
 
 td{
   text-align: center;
+  vertical-align: middle;
   border-top: 2px solid #000000;
   padding: 10px;
 }
@@ -75,15 +76,17 @@ td{
   color: #FFFFFF;
   min-width: 125px;
   padding: 10px;
+  text-align: center;
+  vertical-align: middle;
   background-color: #7e0825;
   vertical-align: middle;
-  align-content: center;
   text-transform: uppercase;
 }
 
 .rowhead{
   border-top: 2px solid #000000;
   border-right: 2px solid #000000;
+  vertical-align: middle;
 }
 
 tr:nth-child(odd) {
@@ -96,6 +99,7 @@ tr:nth-child(even) {
 
 table{
     border: 2px solid #000000;
+    vertical-align: middle;
     border-radius: 50px;
     border-spacing: 0;
     border-collapse: separate;
