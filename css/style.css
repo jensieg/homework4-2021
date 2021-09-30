@@ -115,7 +115,7 @@ thead tr:first-child th:last-child{
 }
 
 tbody {
-  position: relative;
+  overflow: hidden;
 }
 
 tbody tr:last-child th:first-child{
