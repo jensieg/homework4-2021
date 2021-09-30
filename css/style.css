@@ -79,14 +79,11 @@ td{
   vertical-align: middle;
   align-content: center;
   text-transform: uppercase;
-  text-align: center;
-
 }
 
 .rowhead{
   border-top: 2px solid #000000;
   border-right: 2px solid #000000;
-  text-align: center;
 }
 
 tr:nth-child(odd) {
